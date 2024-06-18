@@ -19,7 +19,9 @@ Campus Program is a command-line application I designed to manage student inform
 - **JSON**: Utilized for storing and managing structured data files.
 - **Command-Line Interface**: Provides an interactive user interface for efficient data management.
 
-  Thank you hope you enjoy the program 💖
+  
+
+## Thank you hope you enjoy the program 💖
 
 ## Usage
 
