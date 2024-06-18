@@ -21,12 +21,6 @@ Campus Program is a command-line application I designed to manage student inform
 
   
 
-## Thank you hope you enjoy the program 💖
+## Thank you  I hope you enjoy my program 💖
 
-## Usage
 
-1. **Clone the Repository**:
-
-   ```bash
-   git clone <repository_url>
-   cd campusland-program
