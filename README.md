@@ -1,6 +1,6 @@
-# Campus Program
+# School Managment Project 
 
-Campus Program is a command-line application I designed to manage student information and academic data. It utilizes JSON files for data storage and supports various functionalities it is a program suitable for administrators, professors, and students.
+School Managment is a command-line application I designed to manage student information and academic data. It utilizes JSON files for data storage and supports various functionalities it is a program suitable for administrators, professors, and students.
 
 ## Features
 
